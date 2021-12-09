@@ -59,7 +59,7 @@
 		<mysql-version>5.1.35</mysql-version>
 		<derby-version>10.10.2.0</derby-version>
 		<com.alibaba.jackson-version>1.2.6</com.alibaba.jackson-version>
-		<jackson.version>2.5.4</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 		<commons-fileupload-version>1.3.1</commons-fileupload-version>
 		<org.apache.commons-version>3.4</org.apache.commons-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

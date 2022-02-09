@@ -44,7 +44,7 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<org.springframework-version>4.1.4.RELEASE</org.springframework-version>
-		<org.hibernate-version>4.3.8.Final</org.hibernate-version>
+		<org.hibernate-version>5.4.24.Final</org.hibernate-version>
 		<org.mybatis-version>3.3.0</org.mybatis-version>
 		<org.mybatis.spring-version>1.2.3</org.mybatis.spring-version>
 		<org.aspectj-version>1.8.6</org.aspectj-version>

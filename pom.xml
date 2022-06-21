@@ -56,7 +56,7 @@
 		<javax.servlet.jstl-version>1.2</javax.servlet.jstl-version>
 		<junit-version>4.12</junit-version>
 		<com.alibaba-version>1.0.14</com.alibaba-version>
-		<mysql-version>5.1.35</mysql-version>
+		<mysql-version>8.0.28</mysql-version>
 		<derby-version>10.10.2.0</derby-version>
 		<com.alibaba.jackson-version>1.2.6</com.alibaba.jackson-version>
 		<jackson.version>2.5.4</jackson.version>
